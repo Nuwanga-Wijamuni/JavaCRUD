@@ -2,7 +2,7 @@
 
 * This is a simple User Login System created for understand Java CRUD
 
-### Instructions
+### Intro
 
 1. CRUD Operation Servlets and functions
 
